@@ -101,26 +101,6 @@
       "id": 2
     },
     {
-      "nome": "ttttttt",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "jjj",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
       "nome": "JNR",
       "carne": "Picanha",
       "pao": "Integral",
