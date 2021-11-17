@@ -30,16 +30,6 @@
                         <input type="checkbox" name="opcionais" v-model="opcionais" :value="opcional.tipo">
                         <span>{{ opcional.tipo }}</span>
                     </div>
-
-                    <div class="checkbox-container">
-                        <input type="checkbox" name="opcionais" v-model="opcionais" value="salame">
-                        <span>Salame</span>
-                    </div>
-
-                    <div class="checkbox-container">
-                        <input type="checkbox" name="opcionais" v-model="opcionais" value="salame">
-                        <span>Salame</span>
-                    </div>
                 </div>
 
                 <div class="input-container">
