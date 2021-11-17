@@ -87,7 +87,7 @@
         "Salame",
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
     },
     {
@@ -97,7 +97,7 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
     },
     {
@@ -109,8 +109,34 @@
         "Cebola roxa",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "s.tipo",
       "id": 5
+    },
+    {
+      "nome": "Ronaldo",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Pepino",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "nome": "Ana",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Finalizado",
+      "id": 7
     }
   ]
 }
